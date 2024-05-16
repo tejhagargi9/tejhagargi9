@@ -1,5 +1,6 @@
 #  About Me:
-<h2>Hi 👋, I'm Tej Hagargi,<br><p>Currently in my 4th sem of BCA, passionate about coding and web development.</p></h2>
+<h2>Hi 👋, I'm Tej Hagargi,</h2>
+<p>Currently in my 4th sem of BCA, passionate about coding and web development.</p>
 
 
 ## 🌐 Socials:
