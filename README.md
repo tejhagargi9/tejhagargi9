@@ -2,7 +2,6 @@
 <h2>Hi 👋, I'm Tej Hagargi,</h2>
 <p>Currently in my 4th sem of BCA, passionate about coding and web development.</p>
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tejhagargi9/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//tej-hagargi-) 
 
