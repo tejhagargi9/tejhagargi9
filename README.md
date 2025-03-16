@@ -1,4 +1,3 @@
-<h2 align="center">Hi 👋, I'm Tej Hagargi</h2>
 <h4 align="center">Hi there, I'm Tej! 👋 I'm a MERN Stack Developer with a passion for building dynamic and scalable web applications. I enjoy exploring new technologies, optimizing performance, and creating seamless user experiences. With a strong foundation in full-stack development, I thrive on solving challenges and continuously improving my skills.</h4>
 
 
