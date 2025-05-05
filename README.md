@@ -1,12 +1,58 @@
-<h4 align="center">Hi there, I'm Tej! 👋 I'm a MERN Stack Developer with a passion for building dynamic and scalable web applications. I enjoy exploring new technologies, optimizing performance, and creating seamless user experiences. With a strong foundation in full-stack development, I thrive on solving challenges and continuously improving my skills.</h4>
+# Hi 👋, I'm Tej Hagargi,</h2>
 
+  <h4>Dedicated full-stack web developer currently freelancing. I have
+completed an internship and worked on multiple full-stack projects, honing my problem-solving skills. As a final-year BCA student, I am eager to expand my knowledge and contribute to innovative solutions.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"></a>br <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"></a> <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 🌐 Socials:
 
+[<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" alt="Email" width="40" height="40" style="margin-right: 20px;">](mailto:tejhagargi9@gmail.com)
+[<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" alt="Instagram" width="40" height="40" style="margin-right: 20px;">](https://instagram.com/tej.hagargi/)
+[<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 20px;">](https://linkedin.com/in/tej-hagargi-/)
+[<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg" alt="Twitter" width="40" height="40" style="margin-right: 20px;">](https://twitter.com/tejhagargi9_)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/tej-hagargi-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tej-hagargi-" height="30" width="40" /></a>
-</p>
+---
+
+### Frontend
+
+  <div style="display: flex; flex-direction: row; align-items: center;">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40" style="margin-right: 20px;" />
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40" style="margin-right: 20px;" />
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" style="margin-right: 20px;" />
+    <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" style="margin-right: 20px;" />
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Vite-Dark.svg" alt="Vite" width="40" height="40" style="margin-right: 20px;" />
+    <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="40" height="40" style="margin-right: 20px;" />
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MaterialUI-Dark.svg" alt="MaterialUI" width="40"
+      height="40" style="margin-right: 20px;" />
+  </div>
+
+### Backend and Databases
+
+  <div style="display: flex; flex-direction: row; align-items: center;">
+    <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40"
+      style="margin-right: 20px;" />
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40" style="margin-right: 20px;" />
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" alt="MySQL" width="40" height="40"
+      style="margin-right: 20px;" />
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"
+      style="margin-right: 20px;" />
+  </div>
+
+### Programming languages
+
+  <div style="display: flex; flex-direction: row; align-items: center;">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40" style="margin-right: 20px;" />
+    <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40" style="margin-right: 20px;" />
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" style="margin-right: 20px;" />
+  </div>
+
+### Other tools
+
+  <div style="display: flex; flex-direction: row; align-items: center;">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" alt="VS Code" width="40" height="40" style="margin-right: 20px;" />
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg" alt="Postman" width="40" height="40" style="margin-right: 20px;" />
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" alt="Git and Github" width="40" height="40" style="margin-right: 20px;" />
+  </div>
+
+---
+
+    ![](https://github-contributor-stats.vercel.app/api?username=ganesh-mk&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
