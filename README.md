@@ -3,7 +3,7 @@
   <h4>Dedicated full-stack web developer currently freelancing. I have
 completed an internship and worked on multiple full-stack projects, honing my problem-solving skills. As a final-year BCA student, I am eager to expand my knowledge and contribute to innovative solutions.
 
-### 🌐 Socials:
+### Socials
 
 [<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" alt="Email" width="40" height="40" style="margin-right: 20px;">](mailto:tejhagargi9@gmail.com)
 [<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" alt="Instagram" width="40" height="40" style="margin-right: 20px;">](https://instagram.com/tej.hagargi/)
