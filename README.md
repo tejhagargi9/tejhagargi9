@@ -18,6 +18,7 @@ completed an internship and worked on multiple full-stack projects, honing my pr
     <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40" style="margin-right: 20px;" />
     <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" style="margin-right: 20px;" />
     <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" style="margin-right: 20px;" />
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="React" width="40" height="40" style="margin-right: 20px;" />
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Vite-Dark.svg" alt="Vite" width="40" height="40" style="margin-right: 20px;" />
     <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="40" height="40" style="margin-right: 20px;" />
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MaterialUI-Dark.svg" alt="MaterialUI" width="40"
