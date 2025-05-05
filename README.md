@@ -8,11 +8,10 @@ completed an internship and worked on multiple full-stack projects, honing my pr
 [<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" alt="Email" width="40" height="40" style="margin-right: 20px;">](mailto:tejhagargi9@gmail.com)
 [<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" alt="Instagram" width="40" height="40" style="margin-right: 20px;">](https://instagram.com/tej.hagargi/)
 [<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 20px;">](https://linkedin.com/in/tej-hagargi-/)
-[<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg" alt="Twitter" width="40" height="40" style="margin-right: 20px;">](https://twitter.com/tejhagargi9_)
 
 ---
 
-### Frontend
+### Frontend & Backend - WEB
 
   <div style="display: flex; flex-direction: row; align-items: center;">
     <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40" style="margin-right: 20px;" />
@@ -24,9 +23,7 @@ completed an internship and worked on multiple full-stack projects, honing my pr
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MaterialUI-Dark.svg" alt="MaterialUI" width="40"
       height="40" style="margin-right: 20px;" />
   </div>
-
-### Backend and Databases
-
+  </br>
   <div style="display: flex; flex-direction: row; align-items: center;">
     <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40"
       style="margin-right: 20px;" />
@@ -36,6 +33,7 @@ completed an internship and worked on multiple full-stack projects, honing my pr
     <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"
       style="margin-right: 20px;" />
   </div>
+
 
 ### Programming languages
 
@@ -52,7 +50,3 @@ completed an internship and worked on multiple full-stack projects, honing my pr
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg" alt="Postman" width="40" height="40" style="margin-right: 20px;" />
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" alt="Git and Github" width="40" height="40" style="margin-right: 20px;" />
   </div>
-
----
-
-    ![](https://github-contributor-stats.vercel.app/api?username=ganesh-mk&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
