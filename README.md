@@ -29,7 +29,7 @@ completed an internship and worked on multiple full-stack projects, honing my pr
     <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40"
       style="margin-right: 20px;" />
     <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40" style="margin-right: 20px;" />
-    <img src="https://skillicons.dev/icons?i=MySql" alt="Express.js" width="40" height="40"
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySql" width="40" height="40"
       style="margin-right: 20px;" />
     <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"
       style="margin-right: 20px;" />
