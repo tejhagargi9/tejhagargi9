@@ -11,7 +11,7 @@ completed an internship and worked on multiple full-stack projects, honing my pr
 
 ---
 
-### Frontend & Backend - WEB
+### Frontend, Backend & DB - WEB
 
   <div style="display: flex; flex-direction: row; align-items: center;">
     <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40" style="margin-right: 20px;" />
